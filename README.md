@@ -2,7 +2,7 @@
 
 🌟 Welcome to my Zomato clone! 🌟 This project is a clone of Zomato built using HTML, CSS, and JavaScript. 🌐✨
 
-Project Demo: https://nidhiupman568.github.io/ZOMATO-CLONE/
+Project Demo:[ https://nidhiupman568.github.io/ZOMATO-CLONE/](https://github.com/MadhavPadampalle/Zomato_Clone)
 
 ## 🌟 Features 🌟
 
